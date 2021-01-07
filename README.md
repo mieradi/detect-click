@@ -1,4 +1,4 @@
-# A simple, fully typed, reusable example to detect outside a target div
+# A simple, fully typed, reusable React example to detect a click outside a target div
 
 `yarn start`
 
